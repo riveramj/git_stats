@@ -19,4 +19,8 @@ tmp
 
 # rubymine
 .idea
-git_stats.iml
+
+# rvm or rbenv related files
+.rvmrc
+.ruby-version
+.ruby-gemset
